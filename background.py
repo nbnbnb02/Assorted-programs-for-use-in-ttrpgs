@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 10 11:14:19 2025
 
-@author: nicholasbyrne
-"""
 
 def bgrnd(Opt1,Opt2):
     # if background has skill prof, print
