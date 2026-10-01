@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 23 18:25:16 2025
 
-@author: nicholasbyrne
-"""
 
 
 import tkinter as tk
