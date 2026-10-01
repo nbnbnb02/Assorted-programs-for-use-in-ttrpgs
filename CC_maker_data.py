@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  8 00:18:56 2025
 
-@author: nicholasbyrne
-"""
 
 subclass_dict = {
 "-": [['-'],(1,1)],
